@@ -1,73 +1,39 @@
 # 🐍 Meus Estudos em Python
 
-Repositório dedicado ao registro da minha evolução contínua na linguagem **Python**, reunindo exercícios, experimentos e pequenos projetos voltados para automação, lógica de programação e manipulação de dados.
-
-Este espaço funciona como um **laboratório de aprendizado**, onde novas ideias são testadas antes de serem aplicadas em projetos profissionais.
+Este espaço funciona como meu **laboratório de aprendizado pessoal**. Aqui, registro minha evolução contínua, testando novas ideias, bibliotecas e algoritmos antes de aplicá-los em soluções profissionais na **ALX Pro**.
 
 ---
 
-## 🎯 Objetivos
-
-- Aprimorar lógica de programação
-- Explorar bibliotecas e ferramentas do ecossistema Python
-- Criar scripts de automação para tarefas do dia a dia
-- Desenvolver soluções experimentais antes de produção
-
----
-
-## 📚 Conteúdo do Repositório
-
-Este repositório pode incluir:
-
-- Exercícios de cursos e treinamentos
-- Scripts de automação
-- Testes de bibliotecas Python
-- Manipulação de arquivos e dados
-- Pequenos desafios de programação
+### 🎯 Objetivos do Laboratório
+- **Aprimorar** lógica de programação e algoritmos.
+- **Explorar** novas bibliotecas do ecossistema Python.
+- **Prototipar** scripts de automação para o dia a dia.
+- **Validar** integrações antes da fase de produção.
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Estudados
-
-- Python 3
-- Automação de tarefas
-- Manipulação de arquivos
-- Estruturas de dados
-- Lógica e algoritmos
-- Integração com APIs
-- Processamento de dados
+### 🛠️ Tecnologias em Foco
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
-## 🚀 Aplicação Profissional
+### 📩 Contato & Conexões
+Se você tem interesse em trocar figurinhas sobre automação ou infraestrutura, sinta-se à vontade para me chamar:
 
-Os conhecimentos desenvolvidos aqui são utilizados para apoiar projetos da **ALX Pro**, empresa focada em:
-
-- Automação inteligente de processos
-- Infraestrutura Linux
-- Integração de sistemas
-- Engenharia de dados e banco de dados
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562994529189)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandre-alxpro/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alxprobrasil/)
 
 ---
 
-## 📩 Contato
-
-Interessado em automação, infraestrutura ou projetos de software?
-
-📧 Email profissional: contato@alxpro.com.br  
-📧 Email alternativo: contatoalxpro@gmail.com  
-
-📱 Telefone / WhatsApp: +55 62 99452-9189  
-
-🌐 Site: https://www.alxpro.com.br  
-
-🔗 Redes profissionais  
-LinkedIn: https://www.linkedin.com/in/alessandre-alxpro/  
-Instagram: https://www.instagram.com/alxprobrasil/  
-Facebook: https://www.facebook.com/alxprobrasil  
-
-📍 Goiânia - GO | Atendimento remoto para todo o Brasil
+### 🚀 Aplicação Profissional
+Os conhecimentos lapidados aqui alimentam a **[ALX Pro](https://github.com/ALXPRO-BR)**, onde focamos em:
+- Automação inteligente de processos.
+- Infraestrutura crítica e segurança em Linux.
+- Engenharia de dados e administração Oracle.
 
 ---
-
-💡 *Este repositório representa minha jornada contínua de aprendizado e evolução como engenheiro de software.*
+💡 *Minha jornada é movida pela curiosidade e pelo código.*
